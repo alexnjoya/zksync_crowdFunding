@@ -1,0 +1,38 @@
+# Sensitive data
+.env
+
+# Dependencies
+node_modules/
+
+# Compiled contracts
+artifacts/
+
+# Hardhat cache
+cache/
+
+# macOS system files
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+
+# Miscellaneous
+*.bak
+*.orig
